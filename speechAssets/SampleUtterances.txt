@@ -1,0 +1,4 @@
+GetStationIntent charging stations near {Location}
+GetStationIntent near {Location}
+GetStationIntent at {Location}
+GetStationIntent {Location}
