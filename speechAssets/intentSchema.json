@@ -1,0 +1,31 @@
+{
+  "intents": [
+    {
+      "slots": [
+        {
+          "name": "Location",
+          "type": "AMAZON.PostalAddress"
+        }
+      ],
+      "intent": "GetStationIntent"
+    },
+    {
+      "intent": "AMAZON.NextIntent"
+    },
+    {
+      "intent": "AMAZON.PreviousIntent"
+    },
+    {
+      "intent": "AMAZON.RepeatIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}
